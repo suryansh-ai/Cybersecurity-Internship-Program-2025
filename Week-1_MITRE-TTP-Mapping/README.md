@@ -28,7 +28,7 @@ Maintain a structured folder hierarchy for our internship tasks
 
 We explored several cybersecurity tools (like GOO, Najdi.si, and more), and I began creating POCs (Proof of Concepts) using some of these tools to demonstrate their use in real-world scenarios.
 
-**## 🧠 Key Takeaways**
+## **🧠 Key Takeaways**
 
 Understanding of malware behavior and how digital evidence is handled
 
