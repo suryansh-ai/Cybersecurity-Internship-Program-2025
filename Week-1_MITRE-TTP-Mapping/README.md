@@ -1,18 +1,18 @@
-**# 🗓️ Week 1 Summary – Cybersecurity Internship**
+# **🗓️ Week 1 Summary – Cybersecurity Internship**
 
 During Week 1 of my Cybersecurity & Digital Forensics internship, I was introduced to several fundamental concepts and tools that are crucial in the cybersecurity domain. The sessions were both informative and hands-on, helping me build a strong foundation.
 
-**## 🔐 Topics Covered**
+## **🔐 Topics Covered**
 
-**### Malware Analysis:**
+### **Malware Analysis:**
 
 I learned about various types of malware such as viruses, worms, Trojans, ransomware, and spyware. We discussed how they function, their impact on systems, and basic techniques to detect or prevent them.
 
-**### Digital Forensics:**
+### **Digital Forensics:**
 
 I was introduced to the field of digital forensics — understanding how digital evidence is collected, preserved, and analyzed during cyber investigations. Some real-life case studies helped me grasp the practical importance of forensics in solving cybercrimes.
 
-**### Git & GitHub:**
+### **Git & GitHub:**
 
 I learned how to use Git for version control and how to create repositories on GitHub. This included steps to:
 
