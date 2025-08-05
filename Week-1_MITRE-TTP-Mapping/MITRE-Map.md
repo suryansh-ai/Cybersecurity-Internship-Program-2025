@@ -27,10 +27,10 @@ By using MITRE maps, security professionals can better understand the tactics, t
 
 ---
 
-## 🧠 Threat Overview  
+## Threat Overview  
 Brief summary of the observed activity. Describe the environment, any alerts triggered, or notable adversary behavior.  
 
-## 📝 Notes & Next Steps  
+## Notes & Next Steps  
 
 - Validate detected techniques using forensic tools like Autopsy or FTK Imager.  
 - Run additional scans for lateral movement traces.  
