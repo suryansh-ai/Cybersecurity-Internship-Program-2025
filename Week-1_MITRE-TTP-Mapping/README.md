@@ -1,8 +1,8 @@
-# **🗓️ Week 1 Summary – Cybersecurity Internship**
+# **Week 1 Summary – Cybersecurity Internship**
 
 During Week 1 of my Cybersecurity & Digital Forensics internship, I was introduced to several fundamental concepts and tools that are crucial in the cybersecurity domain. The sessions were both informative and hands-on, helping me build a strong foundation.
 
-## **🔐 Topics Covered**
+## **Topics Covered**
 
 ### **Malware Analysis:**
 
@@ -28,7 +28,7 @@ Maintain a structured folder hierarchy for our internship tasks
 
 We explored several cybersecurity tools (like GOO, Najdi.si, and more), and I began creating POCs (Proof of Concepts) using some of these tools to demonstrate their use in real-world scenarios.
 
-## **🧠 Key Takeaways**
+## **Key Takeaways**
 
 Understanding of malware behavior and how digital evidence is handled
 
